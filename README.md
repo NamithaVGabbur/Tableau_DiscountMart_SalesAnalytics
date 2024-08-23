@@ -32,12 +32,11 @@ Purpose: Visualizes sales distribution across states.
 Key Points:
 California and Texas are top-performing states.
 
-#Filters Used
-Year of Order Date: Allows users to filter data by a specific year.
-Category: Enables users to focus on specific product categories.
+#Filters Used:
+1. Year of Order Date: Allows users to filter data by a specific year.
+2. Category: Enables users to focus on specific product categories.
 
 <img width="1496" alt="Screenshot 2024-08-23 at 4 07 40 PM" src="https://github.com/user-attachments/assets/1d3fcda6-1235-4987-91fe-d782c46ce4f4">
 
 
 
-![image](https://github.com/user-attachments/assets/2a6f9c8a-db34-4295-ae86-a1c36e11a083)
